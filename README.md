@@ -24,6 +24,7 @@ The goal was to identify demand patterns, required skills, and regional hiring i
 ## 📷 Dashboard Preview
 ![Data Jobs Dashboard](1.png)
 ![Data Jobs Dashboard](2.png)
+[watch the dashboard demo](JobAnalysis1.mp4)
 
 
 ## 🚀 Learning Outcomes
